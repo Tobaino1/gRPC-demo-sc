@@ -1,11 +1,8 @@
-# gRPC-demo-sc
+# gRPC-demo-server and client
  Simple gRPC server and client
  
  -------- Oyekan Oluwatobi -------- 12/23/2019
 ***************************""""""""""""""""""""""""""""""""""""""############
-# grpc-blog-demo
-
-
 
 gRPC client-server application with C# and dotnet core.
 
